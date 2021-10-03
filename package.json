@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.taskestimationecs",                              
+  "displayName": "Task Estimation ECS",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Task Estimation is a tool that help you keep track of your tasks inside the project and to provide future blocking information and time estimation to your employer (or to yourself if you need time management).",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":"https://github.com/EloiStree"},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2021_10_03_TaskEstimationECS.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

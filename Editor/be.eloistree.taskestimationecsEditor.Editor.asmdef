@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.taskestimationecsEditor",          
+    "references": ["be.eloistree.taskestimationecs"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
